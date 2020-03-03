@@ -1,4 +1,9 @@
 # Php
+sebelum mencoba latihan anda harus memastikan agar mengaktifkan apache pada xampp
+![alt text](https://github.com/rezaalamsyah/Php/blob/master/Screenshot%20(231).png)
+lalu untuk mengecek folder anda bisa membuka localhost/namafolderanda
+![alt text](https://github.com/rezaalamsyah/Php/blob/master/Screenshot%20(231).png)
+
 MODUL 1
 latihan 1
 ![alt text](https://github.com/rezaalamsyah/Php/blob/master/Screenshot%20(232).png)
