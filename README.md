@@ -1,6 +1,8 @@
 # Php
 sebelum mencoba latihan anda harus memastikan agar mengaktifkan apache pada xampp
-![alt text](https://github.com/rezaalamsyah/Php/blob/master/Screenshot%20(231).png)
+![alt text](https://github.com/rezaalamsyah/Php/blob/master/Screenshot%20(230).png)
+Setelah itu anda harus membuat folder pada htdocs di folder xampp
+![alt text](https://github.com/rezaalamsyah/Php/blob/master/Screenshot%20(248).png)
 lalu untuk mengecek folder anda bisa membuka localhost/namafolderanda
 ![alt text](https://github.com/rezaalamsyah/Php/blob/master/Screenshot%20(231).png)
 
