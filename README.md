@@ -41,3 +41,5 @@ latihan 9
 ![alt text](https://github.com/rezaalamsyah/Php/blob/master/Screenshot%20(246).png)
 latihan 10
 ![alt text](https://github.com/rezaalamsyah/Php/blob/master/Screenshot%20(247).png)
+FOR , FOREACH , Dan WHILE disini memiliki fungsi sebagai perulangan .   pada latihan 9 kita menggunakan for dan foreach . pada for kita menggunakan count agar secara otomatis warna akan berubah dari yang pertama sampai ke yang terakhir dengan menggunakan postfix agar menampilkan yang pertama yaitu biru lalu berganti
+Lalu untuk foreach disana memiliki fungsi yang sama yaitu untuk menampilkan warna tetapi yang berbeda disini adalah pada foreach kita diharuskan mempunyai pointer yang akan memudahkan kita
