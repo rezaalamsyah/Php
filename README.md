@@ -11,6 +11,7 @@ lalu untuk mengecek folder anda bisa membuka localhost/namafolderanda
 MODUL 1
 latihan 1
 ![alt text](https://github.com/rezaalamsyah/Php/blob/master/Screenshot%20(232).png)
+ECHO disini memiliki fungsi untuk menampilkan apa yang ada didalam "".
 latihan 2
 ![alt text](https://github.com/rezaalamsyah/Php/blob/master/Screenshot%20(233).png)
 latihan 3
